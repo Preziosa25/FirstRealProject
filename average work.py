@@ -9,3 +9,4 @@ df.describe()
 #Let's see waht the min value is for everyone
 
 df["vlaue"].min()
+
